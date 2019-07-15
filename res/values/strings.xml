@@ -16,6 +16,8 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <string name="action_save">Save</string>
+
     <!-- Color Picker -->
     <string name="dialog_color_picker">Color Picker</string>
     <string name="press_color_to_apply">Press on color below to apply</string>
@@ -31,6 +33,11 @@
     <string name="custom_seekbar_default_value">Default</string>
     <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
     <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+
+    <string name="seekbar_no_default_value">No default value set</string>
+    <string name="seekbar_default_value_set">Value set to default of <xliff:g id="number">%d</xliff:g></string>
+    <string name="seekbar_default_value_already_set">Default value is already set</string>
+    <string name="seekbar_default_string">Default</string>
 
     <!-- Color Blend -->
     <string name="color_blend_ok">@android:string/ok</string>
